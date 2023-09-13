@@ -1,5 +1,5 @@
-$('#ripple').ripples({
-	resolution: 512,
-	dropRadius: 20,
-	perturbance: 0.04,
+$("#ripple").ripples({
+  resolution: 1024,
+  dropRadius: 12,
+  perturbance: 0.01,
 });
